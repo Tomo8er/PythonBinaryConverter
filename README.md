@@ -1,0 +1,2 @@
+# PythonBinaryConverter
+文字列を二進数に変換するテキストエディタ的な奴です。
